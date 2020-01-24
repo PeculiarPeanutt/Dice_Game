@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#361649</color>
+    <color name="colorPrimaryDark">#1B4353</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Star">#f0c27b</color>
+    <color name="fall">#4b1248</color>
+    <color name="crimsonred">#780206</color>
+    <color name="royalblue">#061161</color>
+    <color name="softgreen">#c9ffbf</color>
+    <color name="softpink">#ffafbd</color>
+    <color name="coralred">#fc354c</color>
+    <color name="seagreen">#0abfbc</color>
+</resources>
